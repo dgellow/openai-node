@@ -1,8 +1,8 @@
-name: Release
+name: Open and update release Pull Requests
 on:
   push:
     branches:
-      - master
+      - next
 
 jobs:
   release:
@@ -17,3 +17,4 @@ jobs:
           repo: dgellow/openai-node
           branch-with-changes: next
           stainless-api-key: ${{ secrets.STAINLESS_API_KEY }}
+
