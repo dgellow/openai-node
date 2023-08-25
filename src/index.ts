@@ -23,6 +23,7 @@ export interface ClientOptions {
    * And here another one!
    * We add even more changes.
    * I'm still adding changes.
+   * More, more, more changes.
    * 
    *
    * The maximum amount of time (in milliseconds) that the client should wait for a response
