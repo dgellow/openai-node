@@ -37,6 +37,7 @@ export interface ClientOptions {
    * An HTTP agent used to manage HTTP(S) connections.
    *
    *   I'm adding more changes here.
+   *   Here is another set of change.
    *
    * If not provided, an agent will be constructed by default in the Node.js environment,
    * otherwise no agent is used.
