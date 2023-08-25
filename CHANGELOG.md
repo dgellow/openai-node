@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.3.1](https://github.com/dgellow/openai-node/compare/v4.3.0...v4.3.1) (2023-08-25)
+
+
+### Bug Fixes
+
+* add more changes to docstring ([1c10872](https://github.com/dgellow/openai-node/commit/1c10872a67dee7a5ae719958768f9ce8abe8ae9c))
+
 ## [4.3.0](https://github.com/dgellow/openai-node/compare/v4.2.0...v4.3.0) (2023-08-25)
 
 
