@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.5.6-alpha (2023-08-25)
+
+Full Changelog: [v4.3.3...v4.5.6-alpha](https://github.com/dgellow/openai-node/compare/v4.3.3...v4.5.6-alpha)
+
+### meta
+
+* testing a metadata note ([92bbb02](https://github.com/dgellow/openai-node/commit/92bbb028b1b3d2837344132c0e45d64780c185f8))
+
 ## 4.3.3 (2023-08-25)
 
 Full Changelog: [v4.3.2...v4.3.3](https://github.com/dgellow/openai-node/compare/v4.3.2...v4.3.3)
