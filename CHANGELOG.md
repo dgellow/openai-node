@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.3.3 (2023-08-25)
+
+Full Changelog: [v4.3.2...v4.3.3](https://github.com/dgellow/openai-node/compare/v4.3.2...v4.3.3)
+
+### Bug Fixes
+
+* changing more doc ([2ee6155](https://github.com/dgellow/openai-node/commit/2ee61556fd2ff09687f00d33d20944fd73a81c15))
+
 ## 4.3.2 (2023-08-25)
 
 Full Changelog: [v4.3.1...v4.3.2]()
