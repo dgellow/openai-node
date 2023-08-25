@@ -21,6 +21,8 @@ export interface ClientOptions {
   /**
    * HERE IS A CHANGE!
    * And here another one!
+   * We add even more changes.
+   * 
    *
    * The maximum amount of time (in milliseconds) that the client should wait for a response
    * from the server before timing out a single request.
